@@ -1,6 +1,6 @@
 # Median US Household Income
 
-![]("./visualizations/map.png")
+![](./visualizations/map.png)
 
 The data used in this visualization is from [Golden Oak Research Group, LLC. “U.S. Income Database Kaggle”. Publication: 5, August 2017. Accessed, 26, Oct 2020.](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations?select=kaggle_income.csv)
 
